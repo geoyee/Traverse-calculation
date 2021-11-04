@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "闭合导线", "闭合导线\闭合导线.csproj", "{4FCA8C94-D80D-4B48-8C8F-37642D60549A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1DFE6B5D-A682-4B08-A411-C836ED2CACDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCA8C94-D80D-4B48-8C8F-37642D60549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCA8C94-D80D-4B48-8C8F-37642D60549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCA8C94-D80D-4B48-8C8F-37642D60549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCA8C94-D80D-4B48-8C8F-37642D60549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFE6B5D-A682-4B08-A411-C836ED2CACDD}.Debug|Any CPU.ActiveCfg = Debug
+		{1DFE6B5D-A682-4B08-A411-C836ED2CACDD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B880B42-2F8C-440D-B510-2EF49FD545FD}
+	EndGlobalSection
+EndGlobal
